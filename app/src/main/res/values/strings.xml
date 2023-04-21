@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SwensonHe</string>
+    <string name="error_happend">Error Happened</string>
+    <string name="today">Today</string>
+    <string name="google_maps_key" translatable="false">AIzaSyAu6p5kYfF3VWP5XzkxZ0_xULEaBlWM-tM</string>
+    <string name="no_internet_connection">There is No Internet Connection . check internet and try again</string>
+    <string name="wind_mph">%s mph</string>
+    <string name="humidity">%s </string>
+    <string name="percentge">%</string>
+    <string name="f"> F</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="noresult">No Result</string>
+</resources>

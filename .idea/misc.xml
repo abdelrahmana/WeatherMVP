@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SwensonHe/app/src/main/res/drawable/ic_full_arrow_left.xml" value="0.147" />
+        <entry key="..\:/SwensonHe/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/SwensonHe/app/src/main/res/layout/adaptor_one_item_places.xml" value="0.2" />
+        <entry key="..\:/SwensonHe/app/src/main/res/layout/loader_layout.xml" value="0.2" />
+        <entry key="..\:/SwensonHe/app/src/main/res/layout/search_city_layout.xml" value="0.22" />
+        <entry key="..\:/SwensonHe/app/src/main/res/layout/weather_fragment.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
